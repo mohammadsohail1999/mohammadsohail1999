@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadsohail1999" alt="Sohail" /> </p>
 
-- 🌱 I’m currently learning *React*.
-- 📱  I’m looking for *Web Developer* role.
+- 🌱 I’m currently learning *NEXT JS*.
+- 📱 Currently working as Web dev at Appinventiv .
 - 🥅 *Goals:* To develop awesome *Web apps*.
 - 💬 Ask me about *MERN* and Web Development.
 - 📫 How to reach me: MohammadSohail099@gmail.com
